@@ -23,5 +23,4 @@ public class BuyAndsellStock
         }
         return maxProfit;
     }
-
 }
